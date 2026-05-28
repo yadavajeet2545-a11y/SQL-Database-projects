@@ -1,11 +1,11 @@
 
 
-## 📌 Overview
+##  Overview
 This repository contains three real-world SQL database systems:
 
-- 🎓 Student Management System
-- 🏥 Hospital Management System
-- 🏦 Bank Management System
+-  Student Management System
+-  Hospital Management System
+-  Bank Management System
 
 Each system is designed using MySQL and includes:
 - Database design
@@ -16,7 +16,7 @@ Each system is designed using MySQL and includes:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - MySQL Workbench
 - SQL (DDL, DML, DQL)
 - Joins, CTE, Views
@@ -26,8 +26,8 @@ Each system is designed using MySQL and includes:
 
 ---
 
-# 🎓 Student Management System
-### Features:
+#  Student Management System
+
 - Student records
 - Courses & faculty mapping
 - Attendance tracking
@@ -38,8 +38,8 @@ Each system is designed using MySQL and includes:
 
 ---
 
-# 🏥 Hospital Management System
-### Features:
+#  Hospital Management System
+
 - Patient & doctor management
 - Appointments system
 - Diagnosis records
@@ -52,8 +52,8 @@ Each system is designed using MySQL and includes:
 
 ---
 
-# 🏦 Bank Management System
-### Features:
+#  Bank Management System
+
 - Customer account management
 - Deposits & withdrawals
 - Transaction history
@@ -65,7 +65,7 @@ Each system is designed using MySQL and includes:
 
 ---
 
-## 📊 Key SQL Concepts Used
+##  Key SQL Concepts Used
 - Primary & Foreign Keys
 - Joins (INNER, LEFT)
 - Aggregate Functions
@@ -78,7 +78,7 @@ Each system is designed using MySQL and includes:
 
 ---
 
-## 🚀 How to Run
+
 
 1. Open MySQL Workbench
 2. Create database for each module:
