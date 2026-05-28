@@ -76,13 +76,4 @@ Each system is designed using MySQL and includes:
 - CTE (Common Table Expressions)
 - Indexing
 
----
 
-
-
-1. Open MySQL Workbench
-2. Create database for each module:
-```sql
-CREATE DATABASE student_db;
-CREATE DATABASE hospital_db;
-CREATE DATABASE bank_db;
